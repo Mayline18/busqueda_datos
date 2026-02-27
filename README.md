@@ -78,5 +78,5 @@ Nota
 El archivo datos.txt no se incluye debido a su tamaño (10,000,000 registros).  
 Para generarlo, ejecute:
 
-g++ generate_data.cpp -o generar
+g++ Tarea1.cpp -O2 -o generar
 ./generar
