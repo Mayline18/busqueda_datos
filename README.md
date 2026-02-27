@@ -79,4 +79,7 @@ El archivo datos.txt no se incluye debido a su tamaño (10,000,000 registros).
 Para generarlo, ejecute:
 
 g++ Tarea1.cpp -O2 -o generar
+
+Ejecutar
+
 ./generar
